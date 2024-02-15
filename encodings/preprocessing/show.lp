@@ -1,0 +1,10 @@
+#show task/1.
+#show dimension/3.
+#show numberProcessorSlots/1.
+#show numberMappings/2.
+#show options/2.
+#show shareMapping/2.
+#show generalUpperBound/1.
+#show generalLowerBound/1.
+#show perTypeUpperBound/2.
+#show perTypeLowerBound/2.
